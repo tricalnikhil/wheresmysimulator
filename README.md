@@ -6,7 +6,7 @@ This is a script to open the documents directory of a simulator. The items in th
 
 Download [cocoaDialog](http://mstratman.github.io/cocoadialog/)
 
-Built using [Platypus](http://www.sveinbjorn.org/platypus)
+Created using [Platypus](http://www.sveinbjorn.org/platypus)
 
 Works for` Xcode 5.x` and `Xcode 6.x` only. Might work for lower versions, but I haven't tested this.
 
