@@ -10,7 +10,7 @@ Built using [Platypus](http://www.sveinbjorn.org/platypus)
 
 Works for` Xcode 5.x` and `Xcode 6.x` only. Might work for lower versions, but I haven't tested this.
 
-**Note: ** [Fix the “App can’t be opened because it is from an unidentified developer” Error in Mac OS X](http://osxdaily.com/2012/07/27/app-cant-be-opened-because-it-is-from-an-unidentified-developer/)
+**Note:** How to Fix the “App can’t be opened because it is from an unidentified developer” Error in Mac OS X [here](http://osxdaily.com/2012/07/27/app-cant-be-opened-because-it-is-from-an-unidentified-developer/)
 ## Installing Where's My Simulator
 
 ```bash
